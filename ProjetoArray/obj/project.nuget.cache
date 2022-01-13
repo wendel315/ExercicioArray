@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbgcjicjA1zWyOB0jci9AnRHxqBEjdGpbgA1NIJDDqJY3qIxUBqBBjhyX++cVJdR4IR3tLuD4ftMhliTKS/nlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wende\\Documents\\Projeto .NET\\Treinamento memoria, array e lista\\ProjetoArray\\ProjetoArray\\ProjetoArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wende\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

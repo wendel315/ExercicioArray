@@ -1,0 +1,16 @@
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ProjetoArray.exe
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ProjetoArray.deps.json
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ProjetoArray.runtimeconfig.json
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ProjetoArray.runtimeconfig.dev.json
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ProjetoArray.dll
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ref\ProjetoArray.dll
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\bin\Debug\net5.0\ProjetoArray.pdb
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.csproj.AssemblyReference.cache
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.AssemblyInfoInputs.cache
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.AssemblyInfo.cs
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.csproj.CoreCompileInputs.cache
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.dll
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ref\ProjetoArray.dll
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.pdb
+C:\Users\wende\Documents\Projeto .NET\Treinamento memoria, array e lista\ProjetoArray\ProjetoArray\obj\Debug\net5.0\ProjetoArray.genruntimeconfig.cache
